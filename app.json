@@ -1,0 +1,15 @@
+{
+    "name": "nhentai-read-discord",
+    "description": "nhentai read discord bot",
+    "env": {
+        "TOKEN": {
+            "description": "Your Discord token for the bot",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
