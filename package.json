@@ -1,0 +1,23 @@
+{
+  "name": "nhentai-read-bot",
+  "version": "0.0.4",
+  "description": "Read nhentai in discord bot",
+  "main": "nhentai.js",
+  "scripts": {
+    "test": "node nhentai.js"
+  },
+  "author": "Moezilla",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nhentai": "^2.1.1",
+    "nhentai-api": "^3.0.2",
+    "nhentai-js": "^4.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "discord",
+    "nhentai",
+    "read",
+    "bot"
+  ]
+}
